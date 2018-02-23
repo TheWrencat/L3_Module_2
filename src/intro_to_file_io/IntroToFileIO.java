@@ -44,7 +44,7 @@ public class IntroToFileIO {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
+		
 		//Write to a file
 		try {
 			FileWriter fw = new FileWriter("src/intro_to_file_io/test2.txt");
@@ -71,3 +71,4 @@ public class IntroToFileIO {
 		}
 	}
 }
+//Copyright © 2018 by Wren Tolo//Copyright © 2018 by Wren Tolo//Copyright © 2018 by Wren Tolo
