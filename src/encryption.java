@@ -16,7 +16,7 @@ public class encryption {
 
 		try {
 			FileWriter file = new FileWriter("src/intro_to_file_io/encryptedText.txt");
-			file.write("\n" + scrambled);
+			file.write(scrambled);
 			file.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
